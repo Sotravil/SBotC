@@ -20,8 +20,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'I hope you\'re fine'
-global.author = 'Nurutomo'
+global.packname = 'SBotC\ http://bit.ly/SotravilKkkk'
+global.author = 'SotravilMaker'
 
 global.multiplier = 69 // The higher, The harder levelup
 
